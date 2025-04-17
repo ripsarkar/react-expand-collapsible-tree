@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../my-collapsible-tree"
+		},
+		{
+			"path": "../../Monorepo_react"
+		}
+	],
+	"settings": {}
+}
