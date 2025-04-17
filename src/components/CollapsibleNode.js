@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
-// import CollapsibleNode from './CollapsibleNode';
 
 const CollapsibleNode = ({ node }) => {
     const [isVisible, setIsVisible] = useState(false);
+
     const toggleChildren = () => {
         setIsVisible(!isVisible);
     };
@@ -26,15 +26,5 @@ const CollapsibleNode = ({ node }) => {
     );
 };
 
-const CollapsibleTree = ({ data }) => {
-    return (
-        <div>
-            {data.map((node, index) => (
-                // <div>hi</div>
-                <CollapsibleNode key={index} node={node} />
-            ))}
-        </div>
-    );
-};
 
-export default CollapsibleTree;
+export default CollapsibleNode;
