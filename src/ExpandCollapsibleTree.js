@@ -21,7 +21,6 @@ import CollapsibleTree from './components/CollapsibleTree';
 const ExpandCollapsibleTree = ({treeData}) => {
     return (
         <div>
-            <h1>Collapsible Tree Example</h1>
             <CollapsibleTree data={treeData} />
         </div>
     );
