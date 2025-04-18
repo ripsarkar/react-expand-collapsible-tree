@@ -9,7 +9,7 @@ To install the plugin, you can run:
 ### `npm install react-expand-collapsible-tree --save-dev`
 
 
-Add <ExpandCollapsibleTree treeData={YourTreeData}/> to your component.
+### `Add <ExpandCollapsibleTree treeData={YourTreeData}/> to your component.`
 
 Pass your tree array in the treeData prop
 
