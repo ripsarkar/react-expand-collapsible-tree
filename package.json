@@ -1,6 +1,6 @@
 {
   "name": "react-expand-collapsible-tree",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "You can create any level of tree with JSON",
   "main": "lib/index.js",
   "scripts": {
