@@ -1,12 +1,23 @@
 {
   "name": "react-expand-collapsible-tree",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "You can create any level of tree with JSON",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "babel src -d lib"
   },
+  "keywords": ["react",
+    "tree",
+    "tree-view",
+    "expandable-tree",
+    "collapsible-tree",
+    "hierarchical-data",
+    "nested-tree",
+    "react-component",
+    "ui-component",
+    "typescript"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
